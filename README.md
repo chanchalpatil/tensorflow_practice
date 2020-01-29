@@ -11,3 +11,6 @@ Original file is located at
 # To build a neural network that predicts the price of a house according to a simple formula.
 So, imagine if house pricing was as easy as a house costs 50k + 50k per bedroom, so that a 1 bedroom house costs 100k, a 2 bedroom house costs 150k etc.How would you create a neural network that learns this relationship so that it would predict a 7 bedroom house as costing close to 400k etc.
 
+# Second file available originally at:
+https://github.com/lmoroney/dlaicourse/blob/master/Exercises/Exercise%202%20-%20Handwriting%20Recognition/Exercise2-Answer.ipynb
+#     Tensorflow model to recognize handwriiten digits using mnist dataset.
